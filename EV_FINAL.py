@@ -89,3 +89,7 @@ while True: #CICLO PRINCIPAL DEL MENU
         break
     else:
         print("Debe seleccionar una opcion valida!!")
+
+
+#no pude usar el git init xd
+#https://github.com/skypv/EV4_TRANSVERSAL.git
